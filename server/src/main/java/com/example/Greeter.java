@@ -10,7 +10,7 @@ public class Greeter {
    */
   public Greeter() {
 
-  }
+}
   
 /**
  *@param someone name
